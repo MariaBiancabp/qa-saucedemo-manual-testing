@@ -2,6 +2,12 @@
 
 Projeto de testes funcionais manuais realizado no SauceDemo, com documentação dos casos de teste, execução no Zephyr, registro de evidências e abertura de bugs no Jira.
 
+## Documentação do projeto
+
+- [Casos de teste](./casos-de-teste.md)
+- [Bugs encontrados](./bugs.md)
+- [Evidências de execução](./evidencias/)
+
 ## Objetivo
 
 Praticar o processo de Quality Assurance em uma aplicação web, desde a criação dos casos de teste até a execução, registro de evidências e rastreabilidade de defeitos.
